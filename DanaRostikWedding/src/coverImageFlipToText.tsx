@@ -5,7 +5,6 @@ import back from "./images/back.jpeg";
 
 const CoverPageFlipToText = () => {
   const [isFlipped, setIsFlipped] = useState(false);
-  const [audio] = useState(new Audio(believer));
 
   const handleClick = () => {
     setIsFlipped(!isFlipped);
