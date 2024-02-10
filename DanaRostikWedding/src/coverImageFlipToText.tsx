@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { Box } from "@mui/material";
 import front from "./images/front.jpeg";
 import back from "./images/back.jpeg";
